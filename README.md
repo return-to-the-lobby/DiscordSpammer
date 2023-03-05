@@ -13,7 +13,7 @@ counts = math.floor(counts)
 [config]
 Content = <Content Here>
 Space = False
-Delay = <Delay in Python Tuple like (0.1, 0.5)>
+Delay = <Delay in Python Tuple or ArrayList like (0.1, 0.5)>
 Authorization = <Your Discord Authorization>
 Channel = <Target Channel>
 ```
