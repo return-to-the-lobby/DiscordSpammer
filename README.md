@@ -17,3 +17,4 @@ Delay = <Delay in Python Tuple or ArrayList like (0.1, 0.5)>
 Authorization = <Your Discord Authorization>
 Channel = <Target Channel>
 ```
+`The filename must be 'config.ini'`
